@@ -7,6 +7,7 @@
 4. 学习如何使用Docker来打包/构建你的应用程序
 5. 编写Dockerfile的最佳实践有哪些?
 6. 如何在本地测试Docker Image/Container?
+7. .dockerignore 是干什么的?
 
 ## 2. 任务
 - [ ] 使用Dockerfile 来构建打包应用.
